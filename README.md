@@ -8,13 +8,13 @@
   + Manage orders for both administrators and customers
   + Admin: add/edit/delete products, manage products, manage users
   
-### Technology
+## Technology
   + Frontend: ReactJs, TailwindCSS
   + Backend: NodeJs
   + Database: MongoDB
   + Deployment: Vercel
 
-#### Install & Run
+## Install & Run
   + Clone Repo
   + Install dependencies
   + Create file .env for backend
